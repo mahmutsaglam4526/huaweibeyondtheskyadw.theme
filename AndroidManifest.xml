@@ -2,7 +2,7 @@
 <manifest
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:tools="http://schemas.android.com/tools"
-	package="x.x.x"
+	package="com.mahmutsaglam.theme.beyondtheskyadw"
 	android:versionCode="1"
 	android:versionName="1.0"
 	android:installLocation="internalOnly">
@@ -38,7 +38,7 @@
         <provider 
             android:name=".DocksProvider"
             android:enabled="@bool/enableDockPack"  
-            android:authorities="x.x.x.DocksProvider"
+            android:authorities="com.mahmutsaglam.theme.beyondtheskyadw.DocksProvider"
             tools:ignore="ExportedContentProvider"/>
     </application>
 </manifest>
