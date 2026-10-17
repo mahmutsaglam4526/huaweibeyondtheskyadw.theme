@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="dock_pack" translatable="false">
+	       <item>bigthemeview.png</item>
+		   <item>bigthemeview_landscape.png</item>
     </string-array>
 </resources>

@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="icon_pack" translatable="false">
+	<item>chrome</item>
+	<item>phone</item>
+	<item>sms1</item>
+	<item>sms2</item>
+	<item>calculator</item>
+	<item>clock</item>
+	<item>flashlight</item>
+	<item>mms</item>
+	<item>camera</item>
+    <item>dolphinbrowser</item>
+	<item>settings</item>
+	<item>filemanager</item>
+	<item>stk</item>
     </string-array>
 </resources>
