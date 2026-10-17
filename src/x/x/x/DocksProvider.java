@@ -1,4 +1,4 @@
-package x.x.x;
+package com.mahmutsaglam.theme.beyondtheskyadw.DocksProvider;
 
 import java.io.FileNotFoundException;
 

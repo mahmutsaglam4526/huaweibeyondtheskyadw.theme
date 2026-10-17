@@ -4,7 +4,7 @@
  * To Public License, Version 2, as published by Sam Hocevar. See
  * http://sam.zoy.org/wtfpl/COPYING for more details. */ 
 
-package x.x.x;
+package com.mahmutsaglam.theme.beyondtheskyadw.IconPack;
 
 import java.util.ArrayList;
 
